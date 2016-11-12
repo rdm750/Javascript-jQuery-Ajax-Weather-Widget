@@ -8,4 +8,4 @@ In Firefox, navigate to
 ```
 to load the widget
 
-![ScreenShot](https://raw.github.com/rdm750/rdm750.github.io/master/images/Screen Shot 2016-11-11 at 9.31.37 PM.png)
+![ScreenShot](https://raw.github.com/rdm750/rdm750.github.io/master/images/Screen Shot 2016-11-11 at 10.19.11 PM.png)
