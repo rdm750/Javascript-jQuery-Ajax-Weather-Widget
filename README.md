@@ -3,7 +3,7 @@ Javascript jQuery Ajax Weather Widget
 
 In Firefox, navigate to
 ```
- <https://rdm750.github.io/Javascript-jQuery-Ajax-Weather-Widget/>
+ \<https://rdm750.github.io/Javascript-jQuery-Ajax-Weather-Widget/\>
 
 ```
 to load the widget
