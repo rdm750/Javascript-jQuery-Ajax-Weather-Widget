@@ -15,4 +15,4 @@ http://api.apixu.com/v1/forecast.json
 http://api.apixu.com/v1/search.json
 http://api.apixu.com/v1/history.json
 
-![ScreenShot](https://raw.github.com/rdm750/rdm750.github.io/master/images/Screen Shot 2016-11-11 at 10.19.11 PM.png,"Weather Widget Ajax and jQuery")
+![ScreenShot](https://raw.github.com/rdm750/rdm750.github.io/master/images/Screen Shot 2016-11-11 at 10.19.11 PM.png)
